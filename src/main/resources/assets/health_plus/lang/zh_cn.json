@@ -1,0 +1,12 @@
+{
+  "item.health_plus.heart_container": "心之容器",
+  "item.health_plus.cant_be_killed_advancement_icon": "心之容器挑战",
+  "health_plus.heart_container.hint": "使用后永久增加一颗心。",
+  "health_plus.at_limit": "已达到心之容器上限（%s 点生命）。",
+  "gamerule.limitExtraHearts": "心之容器生命上限",
+  "gamerule.limitExtraHearts.description": "使用心之容器增加最大生命时允许达到的生命值。",
+  "health_plus.advancement.use.title": "再来一颗心！",
+  "health_plus.advancement.use.desc": "使用心之容器永久增加生命上限。",
+  "health_plus.advancement.limit.title": "百折不挠",
+  "health_plus.advancement.limit.desc": "达到心之容器可提供的生命上限。"
+}

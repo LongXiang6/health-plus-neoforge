@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Apache-2.0"
+
+[[mods]]
+modId="health_plus"
+logoFile="lambda_logo.png"
+displayName = "Health Plus"
+description = "合成并使用心之容器可永久增加一颗心，额外生命值上限可通过游戏规则设置。"
+version = "1.1.1"
+authors = "TheHighTide"
+
+[[mixins]]
+config="health_plus.mixins.json"
+
+[[dependencies.health_plus]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.health_plus]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,21.2)"
+ordering="NONE"
+side="BOTH"

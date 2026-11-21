@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:story/root",
+  "display": {
+    "icon": {"id": "health_plus:heart_container"},
+    "title": {"translate": "health_plus.advancement.use.title"},
+    "description": {"translate": "health_plus.advancement.use.desc"}
+  },
+  "criteria": {"use_heart_container": {"trigger": "minecraft:impossible"}},
+  "rewards": {"experience": 75}
+}

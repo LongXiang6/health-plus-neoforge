@@ -1,0 +1,11 @@
+{
+  "parent": "health_plus:use_heart_container",
+  "display": {
+    "icon": {"id": "health_plus:cant_be_killed_advancement_icon"},
+    "title": {"translate": "health_plus.advancement.limit.title"},
+    "description": {"translate": "health_plus.advancement.limit.desc"},
+    "frame": "challenge"
+  },
+  "criteria": {"cant_be_killed": {"trigger": "minecraft:impossible"}},
+  "rewards": {"experience": 100}
+}

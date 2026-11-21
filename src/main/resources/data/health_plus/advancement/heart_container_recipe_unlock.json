@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "gold_blocks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {"items": [{"items": "minecraft:gold_block"}]}
+    }
+  },
+  "rewards": {"recipes": ["health_plus:heart_container"]}
+}

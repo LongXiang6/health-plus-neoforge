@@ -1,0 +1,12 @@
+{
+  "item.health_plus.heart_container": "Heart Container",
+  "item.health_plus.cant_be_killed_advancement_icon": "Heart Container Challenge",
+  "health_plus.heart_container.hint": "Use to permanently gain one heart.",
+  "health_plus.at_limit": "You have reached the health limit (%s health points).",
+  "gamerule.limitExtraHearts": "Maximum health from Heart Containers",
+  "gamerule.limitExtraHearts.description": "The total health point limit when consuming a Heart Container.",
+  "health_plus.advancement.use.title": "Another Heart for Me!",
+  "health_plus.advancement.use.desc": "Permanently increase your health with a Heart Container.",
+  "health_plus.advancement.limit.title": "Can't Be Killed",
+  "health_plus.advancement.limit.desc": "Reach the Heart Container health limit."
+}
